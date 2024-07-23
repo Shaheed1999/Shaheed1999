@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shaheed1999
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Software and Web Development...
+- 👋 Hi, I’m @AshikNizam
+- 👀 Computer Science Graduate
+- 🌱 Java, Flutter Developer
+- 💞️ Continuous learner believing adaptability is the best strategy for a CS grad.
 - 📫 How to reach me: Instagram; ashikshaheed
 
 <!---
