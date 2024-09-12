@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshikNizam
 - 👀 Computer Science Graduate
 - 🌱 Java, Flutter Developer
-- 💞️ Continuous learner believing adaptability is the best strategy for a CS grad.
+- 💞️ Continuous learner believing in adaptable to learn any language is the is the best strategy growing as a computer scientist.
 
 
 <!---
