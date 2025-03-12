@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshikNizam
 - 👀 Computer Science Graduate
-- 🌱 Java, Flutter Developer
+- 🌱 Software Engineer learning multiple languages and frameworks
 - 💞️ Continuous learner believing in adaptable to learn any language is the is the best strategy growing as a computer scientist.
 
 
